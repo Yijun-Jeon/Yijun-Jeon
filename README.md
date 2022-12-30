@@ -37,12 +37,16 @@
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-React-007396?style=for-the-badge&logo=React&logoColor=white"> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
- 
+  
+  <br>  <br>  <br>
+  <table><tbody><tr><td><div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yijun-Jeon&layout=compact&theme=transparent&langs_count=8)</div></td></tr></tbody></table>
 
+  
+  ![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=Yijun-Jeon&show_icons=true&theme=transparent&card_width=400) 
 </p>
 
-<br>
+<p align="center" display="inline-block">
 
-<div align=center>
+    
 
-![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=Yijun-Jeon&show_icons=true&theme=transparent)
+</p>
