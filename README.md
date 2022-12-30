@@ -1,19 +1,48 @@
-![reversal](https://capsule-render.vercel.app/api?type=transparent&text=Yijun%20Jeon&fontAlign=50&fontSize=50&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Yijun's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
+<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yijun-Jeon&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <Strong>☁️Portfolio List☁️</Strong><br><br>
+    <a href="https://velog.io/@gkqls813" target="_blank"><img src="https://img.shields.io/badge/-Velog-brightgreen?style=flat-square&logo=Velog&logoColor=white"/></a>
+    <br><br>
+    <Strong>📧Email📧</Strong><br>gkqls813@gmail.com<br>
+</p>
 
-<!--
-**Yijun-Jeon/Yijun-Jeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <Strong>⚒️Tech Stack⚒️</Strong><br>
+    💡used as the main
+</p>
+
+<p align="center" display="inline-block">
+  <img src="https://img.shields.io/badge/-C%23-blue?style=for-the-badge&logo=csharp&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/-.NET%20Core-red?style=for-the-badge&logo=.Net&logoColor=white">
+    <img src="https://img.shields.io/badge/-Unity-lightgrey?style=for-the-badge&logo=Unity&logoColor=white">
+</p><br>
+
+<p align="center">
+    💡used at least once
+</p>
+
+<p align="center" display="inline-block">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-007396?style=for-the-badge&logo=React&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+ 
+
+</p>
+
+<br>
+
+<div align=center>
+
+![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=Yijun-Jeon&show_icons=true&theme=transparent)
