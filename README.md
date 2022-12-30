@@ -41,6 +41,6 @@
   <br>  <br>  <br>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yijun-Jeon&layout=compact&theme=transparent&langs_count=8)
-  ![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=Yijun-Jeon&show_icons=true&theme=transparent&card_width=400&line_height=24) 
+  ![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=Yijun-Jeon&show_icons=true&theme=transparent&line_height=24) 
 </p>
 
