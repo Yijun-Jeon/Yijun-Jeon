@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-    <Strong>☁️Portfolio List☁️</Strong><br><br>
+    <Strong>☁️ Portfolio ☁️</Strong><br><br>
     <a href="https://velog.io/@gkqls813" target="_blank"><img src="https://img.shields.io/badge/-Velog-brightgreen?style=flat-square&logo=Velog&logoColor=white"/></a>
     <br><br>
     <Strong>📧Email📧</Strong><br>gkqls813@gmail.com<br>
@@ -41,6 +41,6 @@
   <br>  <br>  <br>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yijun-Jeon&layout=compact&theme=transparent&langs_count=8)
-  ![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=Yijun-Jeon&show_icons=true&theme=transparent&line_height=24) 
+  ![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=Yijun-Jeon&show_icons=true&theme=transparent&line_height=24&card_width=450) 
 </p>
 
