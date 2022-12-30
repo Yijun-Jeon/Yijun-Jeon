@@ -1,4 +1,7 @@
-### Hi there 👋
+![reversal](https://capsule-render.vercel.app/api?type=transparent&text=Yijun%20Jeon&fontAlign=50&fontSize=50&theme=radical)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yijun-Jeon&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Yijun-Jeon/Yijun-Jeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
