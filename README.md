@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-    <Strong>☁️ Portfolio ☁️</Strong><br><br>
+    <Strong>☁️ Tech Blog ☁️</Strong><br><br>
     <a href="https://velog.io/@gkqls813" target="_blank"><img src="https://img.shields.io/badge/-Velog-brightgreen?style=flat-square&logo=Velog&logoColor=white"/></a>
     <br><br>
     <Strong>📧Email📧</Strong><br>gkqls813@gmail.com<br>
